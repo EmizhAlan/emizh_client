@@ -34,7 +34,6 @@ const useRedirectByUserCheck = (isAuthPage = false) => {
       return
     }
 
-    router.push('/')
   }
 
   return { shouldLoadContent }
