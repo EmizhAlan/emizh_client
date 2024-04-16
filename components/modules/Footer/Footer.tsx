@@ -68,7 +68,7 @@ const Footer = () => {
                 <Link href="/contacts" passHref legacyBehavior>
                   <a className={styles.footer__top__item__list__item__link}>
                     <span>Наш адрес:</span>
-                    <span>г. Майкоп, ул. ... д....</span>
+                    <span>г. Москва, ул. ... д....</span>
                     <span>
                       <MarkerSvg />
                     </span>
@@ -77,7 +77,7 @@ const Footer = () => {
               </li>
               <li className={styles.footer__top__item__list__item}>
                 <a
-                  href="tel:+79183391232"
+                  href="tel:+780955555555"
                   className={styles.footer__top__item__list__item__link}
                 >
                   <span>Наш контактный телефон:</span>
@@ -89,11 +89,11 @@ const Footer = () => {
               </li>
               <li className={styles.footer__top__item__list__item}>
                 <a
-                  href="mailto:emizalan25@gmail.com"
+                  href="mailto:info@zapchasti.com.ru"
                   className={styles.footer__top__item__list__item__link}
                 >
                   <span>E-mail:</span>
-                  <span>emizalan25@gmail.com</span>
+                  <span>info@zapchasti.com.ru</span>
                   <span>
                     <MailSvg />
                   </span>
@@ -130,25 +130,25 @@ const Footer = () => {
               <ul className={styles.footer__bottom__block__social}>
                 <li className={styles.footer__bottom__block__social__item}>
                   <a
-                    href="https://vk.com/club224839008"
+                    href="#"
                     className={styles.footer__bottom__block__social__item_vk}
                   />
                 </li>
                 <li className={styles.footer__bottom__block__social__item}>
                   <a
-                    href="https://vk.com/club224839008"
+                    href="#"
                     className={styles.footer__bottom__block__social__item_fb}
                   />
                 </li>
                 <li className={styles.footer__bottom__block__social__item}>
                   <a
-                    href="https://vk.com/club224839008"
+                    href="#"
                     className={styles.footer__bottom__block__social__item_inst}
                   />
                 </li>
                 <li className={styles.footer__bottom__block__social__item}>
                   <a
-                    href="https://www.youtube.com/@togaz2023"
+                    href="#"
                     className={styles.footer__bottom__block__social__item_ytb}
                   />
                 </li>
@@ -158,7 +158,7 @@ const Footer = () => {
           {isMedia750 && <FooterLogo />}
           <div className={styles.footer__bottom__block}>
             <p className={styles.footer__bottom__block__copyright}>
-              © «Детали для газовых котлов» 2024.
+              © «Детали для газовых котлов» 2021.
             </p>
           </div>
         </div>

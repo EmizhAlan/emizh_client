@@ -16,13 +16,13 @@ const AboutPage = () => {
         <div className={styles.about__inner}>
           <div className={`${styles.about__info} ${darkModeClass}`}>
             <p>
-              Компания &quot;Команда ПКС&quot; предлагает Вам запасные части для
+              Компания &quot;АкваТермикс&quot; предлагает Вам запасные части для
               европейских, корейских и отечественных газовых и электрических
               котлов. 99% запчастей представленных на сайте постоянно
               поддерживаются в наличии на нашем складе.
             </p>
             <p>
-              Ассортимент интернет-магазина &quot;Команда ПКС&quot; включает в
+              Ассортимент интернет-магазина &quot;АкваТермикс&quot; включает в
               себя запасные части для котлов Arderia, Ariston, Baxi, Beretta,
               Bosch, Buderus, Chaffoteaux, De Dietrich, Demrad, Electrolux,
               Ferroli, Fondital, Immergas, Junkers, Koreastar, Nova Florida,

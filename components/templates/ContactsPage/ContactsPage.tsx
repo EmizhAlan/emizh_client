@@ -39,11 +39,11 @@ const ContactsPage = ({ isWholesaleBuyersPage = false }) => {
               </li>
               <li className={`${styles.contacts__list__item} ${darkModeClass}`}>
                 <span>Офис:</span>
-                <span> г. Майкоп, ул. ... д....</span>
+                <span> г. Москва, ул. ... д....</span>
               </li>
               <li className={`${styles.contacts__list__item} ${darkModeClass}`}>
                 <span>Склад:</span>
-                <span> г. Майкоп, ул. ... д....</span>
+                <span> г. Москва, ул. ... д....</span>
               </li>
               <li className={`${styles.contacts__list__item} ${darkModeClass}`}>
                 <span>График работы офиса:</span>
